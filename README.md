@@ -6,5 +6,8 @@
 🐱‍🚀 Always looking to better myself through continuous experimentation and self-reflection!  
 🐧💙 Penguins are my favourite animal.
 
-## <div align = center>Statistics (WIP)🔢</div>
-lorem ipsum
+## <div align = center>Statistics🔢</div>
+<p align = "center">
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=PabloPenguin&title_color=ffffff&layout=compact&text_color=ffffff&theme=radical&line_height=21">
+  <img src="https://github-readme-stats.vercel.app/api?username=PabloPenguin&&show_icons=true&title_color=ffffff&icon_color=03A87C&text_color=ffffff&theme=radical&line_height=21">
+</p>
